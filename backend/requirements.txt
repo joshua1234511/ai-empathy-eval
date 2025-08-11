@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Flask-JWT-Extended
+transformers
+torch
+scikit-learn
+pandas
+python-dotenv
